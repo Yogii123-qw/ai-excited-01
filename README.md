@@ -1,9 +1,9 @@
 # Clay Fist
 
-This is my entry, titled "Clay Fist", for the make.fun competition ai-excited-01.
+Entry for the make.fun competition ai-excited-01.
 
-The program `main.ts` copies `entry.png` into the output directory.
+The program main.ts copies entry.png to the output directory. Run it locally with MAKEFUN_OUTPUT_DIR=out node main.ts.
 
-To run it locally:
-
-MAKEFUN_OUTPUT_DIR=out node main.ts
+[![make.fun · ai-excited-01](https://make.fun/badge/ai-excited-01.svg)](https://make.fun/bounty/ai-excited-01?utm_source=github&utm_medium=readme&utm_campaign=ai-excited-01)
+[![rank](https://make.fun/badge/ai-excited-01/Yogii123-qw/ai-excited-01/rank.svg)](https://make.fun/bounty/ai-excited-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=ai-excited-01)
+[![reward](https://make.fun/badge/ai-excited-01/Yogii123-qw/ai-excited-01/reward.svg)](https://make.fun/bounty/ai-excited-01?utm_source=github&utm_medium=readme&utm_campaign=ai-excited-01)
